@@ -1,0 +1,7 @@
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.AssemblyReference.cache
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\Lone_Wolf\source\repos\dcit318-assignment1-10951879\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
